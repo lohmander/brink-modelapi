@@ -12,7 +12,7 @@ setup(
     version="0.1.0",
     description="Automating CRUD api creation for Brink models",
     long_description=long_description,
-    url="https://github.com/lohmander/brink_modelapi",
+    url="https://github.com/lohmander/brink-modelapi",
     author="CH Lohmander",
     author_email="hannes@lohmander.me",
     license="MIT",
